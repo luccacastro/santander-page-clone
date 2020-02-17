@@ -1,0 +1,10 @@
+
+
+.container-benefits{
+  padding-left: 20px;
+  width: 80vw;
+}
+
+.container-benefits table:last-child{
+  border-bottom: 1px #DCDCDC solid;
+}

@@ -1,0 +1,35 @@
+.card-column img{
+    color: #000;
+    height: 20vh;
+    width: 100%;
+  }
+  
+  .card-column h5{
+    margin-top: -10px;
+    margin-bottom: 30px;
+    font-family: 'Open Sans', sans-serif;;
+    color: #000;
+    font-size: 24px;
+    line-heigh: 34px;
+    font-weight: lighter;
+  }
+  
+  .card-column p{
+    color: #000;
+    font-size: 15px;
+    line-heigh: 27px;
+    font-weight: 400;
+    
+  }
+  
+  .card-column a {
+    color: #444444;
+    margin: 0px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+  }
+  
+  .card-column a:hover{
+    color: #999999;
+  }

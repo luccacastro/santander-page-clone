@@ -1,0 +1,114 @@
+h3{
+  color: #444444;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 27px;
+}
+
+.benefitsTable{
+  margin:0px;
+}
+
+a, p{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 0px;
+}
+a{
+  line-height: px;
+}
+
+.blank{
+  width: 20%;
+}
+
+table.benefitsTable {
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: -0.5px;
+    font-weight: 100;
+    width: 80%;
+    padding: 20px;
+    border-collapse: collapse;
+  }
+
+  table.benefitsTable .text{
+    text-align: center;
+    color: #222222;
+    font-size: 18px;
+    
+  }
+
+  table.darkTale thead tr :first-child{
+    margin: 10px;
+  }
+  
+  
+  table.benefitsTable td{
+    align-items: left;
+    padding: 5px;
+    padding-left: 10px;
+  }
+
+  table.benefitsTable td img{
+    width: 228px;
+    height: 147px;
+  }
+
+  table.benefitsTable td a{
+    padding: 0px;
+  }
+table.benefitsTable tbody  {
+    line-height: 28px;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(153, 153, 153);
+  }
+  table.benefitsTable tr:nth-child(even) {
+    background: rgb(153, 153, 153);
+    margin: 10px;
+  }
+  table.benefitsTable thead th {
+    font-size: 15px;
+    padding-left: 10px;
+    line-height: 25px;
+    font-weight: normal;
+    color: rgb(153, 153, 153);
+    text-align: left;
+    border-bottom: 1px solid rgb(153, 153, 153);
+  }
+  table.benefitsTable tbody tr h3{
+    color: #444444;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    line-height: 27px;
+  }
+  table.benefitsTable tbody tr a{
+    color: #444444;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    margin-top: -30px;
+  }
+  table.benefitsTable tbody tr p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    margin: 0px;
+  }
+  table.benefitsTable tbody tr td img{
+    padding: 0px;
+  }
+  .separator{
+    padding: 20px;
+  }
+
+  
+
+/* table.benefitsTable tbody tr:last-child{
+  border-bottom: 1px solid rgb(153, 153, 153);
+} */
+   

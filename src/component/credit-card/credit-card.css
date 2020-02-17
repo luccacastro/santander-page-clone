@@ -1,0 +1,75 @@
+
+
+.credit-card-table{
+    margin-top: 100px;
+    width: 100%;
+}
+
+table.darkTable {
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: -0.5px;
+    font-weight: 100;
+    width: 100%;
+    margin-bottom: 70px;
+    border-collapse: collapse;
+  }
+  table.darkTable .space{
+    width: 37%;
+  }
+
+  table.darkTable .text{
+    text-align: center;
+    color: #222222;
+    font-size: 18px;
+    
+  }
+
+  table.darkTale thead tr :first-child{
+    margin: 10px;
+  }
+  
+  table.darkTable td .center {
+    text-align: center;
+  }
+  
+  table.darkTable td{
+    align-items: left;
+    padding: 30px;
+     padding-left: 0;
+  }
+
+  table.darkTable td{
+    align-items: left;
+    padding: 30px;
+     padding-left: 0;
+  }
+  table.darkTable tbody  {
+    border-bottom: 1px solid rgb(153, 153, 153);
+    line-height: 28px;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(153, 153, 153);
+  }
+  table.darkTable tr:nth-child(even) {
+    background: rgb(153, 153, 153);
+    margin: 10px;
+  }
+  table.darkTable thead th {
+    font-size: 15px;
+    padding-left: 10px;
+    line-height: 25px;
+    font-weight: normal;
+    color: rgb(153, 153, 153);
+    text-align: left;
+    border-bottom: 1px solid rgb(153, 153, 153);
+  }
+  
+  
+  table.darkTable tfoot {
+    font-size: 16px;
+    font-weight: bold;
+    border-top: 1px solid rgb(153, 153, 153);
+    width: inherit;
+  }
+  

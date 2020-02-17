@@ -1,0 +1,10 @@
+.main{
+   position: relative;
+   top: 0;
+   background-image: linear-gradient(rgba(36,70,105,.74), rgba(36,70,105,.74)), url(https://cms.santander.com.br/sites/WPS/imagem/imagem-universidade-nova-home/19-08-14_182812_G_banner-desktop.jpg);
+   background-position: center;
+   background-size: 100vmax;
+   height: 52.5vh;
+   width: 100%;
+}
+

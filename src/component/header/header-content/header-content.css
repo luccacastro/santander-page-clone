@@ -1,0 +1,115 @@
+
+.intro h1{
+    display: block;
+    font-size: 55px;
+    line-height: 69px;
+    /* font-size: 2.9vmax; */
+    font-weight: 100 ;
+    letter-spacing: -4px;
+    
+    margin-left: 20px;
+    /* margin-bottom: 100px; */
+    color: white;
+  }
+
+  .intro{
+    position: relative;
+    top: 80px;
+    margin-top: 11.5vh;
+    margin-left: 12.5vw;
+    margin-bottom: 100px;
+    width: 60vw;
+    top:0;
+  }
+  
+  .intro .red-block{
+    margin-right: 100px;
+    width: 47vw;
+    height: 22vh;
+    padding: 50px 50px 20px;
+    background-color: #CD230D;
+  }
+  
+  .intro .red-block h4 {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 24px;
+    font-weight: 100;
+    font-size: 28px;
+    
+  }
+  
+  .intro .red-block ul li {
+    margin-left: -20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  
+  .buttons-option{
+    width: inherit;
+    display: flex;
+    height: 70px;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+  
+  
+  .btn{
+    font-size: 17px;
+    padding: 15.5px;
+    padding: 15.5px;
+  
+    margin-right: 12px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    width: 235px;
+    margin: 10px;
+   }
+  
+  /* .arrow{
+    background: url(next.svg) no-repeat;
+    display: inline-block;
+    float: left;
+    width: 16px;
+    height: 16px;
+   } */
+  
+   .white-text{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 23px;
+    font-weight: 400;
+    font-size: 13px;
+   }
+  
+  .ghost{
+    color: #fff;
+    border: 1px solid #fff;
+    background: #CD230D;
+  }
+  
+  .ghost:hover{
+    color: #CD230D;
+    border: 1px solid #CD230D;
+    background: white;
+    transition: 0.5s;
+  }
+  
+  
+  .ghost-inverse{
+    color: #CD230D;
+    border: 1px solid #CD230D;
+    background: white;
+    transition: 0.5s
+  }
+  
+  .ghost-inverse:hover{
+    color: #fff;
+    border: 1px solid #fff;
+    background: #CD230D;
+  }
+  
+  
+  
